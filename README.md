@@ -1,2 +1,1 @@
-# twizet.github.io
-Hello friend
+# twizet.github.io Hello friend
