@@ -1,1 +1,1 @@
-# twizet.github.io [twizet/devops-exercises]
+# twizet.github.io
